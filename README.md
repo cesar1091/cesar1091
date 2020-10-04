@@ -10,4 +10,4 @@ Soy **Aarón Fernández** ✨ _cesar1091_ ✨ estudiante de ingeniería industri
 - 📫 Puedes escribirme a: **cafn.1091@gmail.com**
 
 
-![](https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif)
+<img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="250" height="250">
