@@ -1,3 +1,5 @@
+<img src="https://carleton.ca/datapower/wp-content/uploads/BannereDark.png">
+
 ## Hola a todos, bienvenidos a mi perfil 👋 
 
 Soy **Aarón Fernández** ✨ _cesar1091_ ✨ estudiante de ingeniería industrial y bachiller en matemática
