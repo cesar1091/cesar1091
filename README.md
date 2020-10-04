@@ -1,7 +1,3 @@
-
-![](https://github.com/cesar1091/cesar1091/tree/main/images/Industry4Logo-1.png)
-
-
 ## Hola a todos, bienvenidos a mi perfil 👋 
 
 Soy **Aarón Fernández** ✨ _cesar1091_ ✨ estudiante de ingeniería industrial y bachiller en matemática
@@ -13,3 +9,5 @@ Soy **Aarón Fernández** ✨ _cesar1091_ ✨ estudiante de ingeniería industri
 - 💬 Preguntame acerca de las matemáticas detras de los algoritmos de machine learning, puede ser de mucha utilidad.
 - 📫 Puedes escribirme a: **cafn.1091@gmail.com**
 
+
+![](https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif)
