@@ -1,7 +1,8 @@
-### Hola a todos, bienvenidos a mi perfil 👋 
+
+![](https://github.com/cesar1091/cesar1091/tree/main/images/Industry4Logo-1.png)
 
 
-
+## Hola a todos, bienvenidos a mi perfil 👋 
 
 Soy **Aarón Fernández** ✨ _cesar1091_ ✨ estudiante de ingeniería industrial y bachiller en matemática
 
