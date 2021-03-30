@@ -8,7 +8,7 @@ Soy **Aarón Fernández** ✨ _cesar1091_ ✨ estudiante de ingeniería industri
 - 👯 Estoy buscando colaborar en diversos proyectos para aprender de forma continúa.
 - 💬 Preguntame acerca de las matemáticas detras de los algoritmos de machine learning, puede ser de mucha utilidad.
 - 📫 Puedes escribirme a: **cafn.1091@gmail.com**
-
-<img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="250" height="250">
-
+<p align="center">
+ <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="250" height="250">
+</p>
 
