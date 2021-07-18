@@ -3,10 +3,10 @@
 
 Soy **Aarón Fernández** ✨ _cesar1091_ ✨ estudiante de ingeniería industrial y bachiller en matemática
 
-- 🔭 Trabajo en asesorias académicas de cursos de ingeniería 
-- 🌱 Estudio _Python_ y _R_ para la manipulación de base de datos  y poder crear modelos predictivos para la automatización de empresas
+- 🔭 Trabajo en Vida Software desarrollando modelos de machine learning
+- 🌱 Experiencia en trabajar con _Python_ y _R_ para la manipulación de base de datos  y poder crear modelos predictivos para la automatización de empresas
 - :smile: Muy pronto estaré subiendo mis proyectos personales con bases de datos abiertas.
-- 👯 Estoy buscando colaborar en diversos proyectos para aprender de forma continúa.
+- 👯 Estoy colaborando en diversos proyectos para aprender de forma continúa.
 - 💬 Preguntame acerca de las matemáticas detras de los algoritmos de machine learning, puede ser de mucha utilidad.
 - 📫 Puedes escribirme a: **cafn.1091@gmail.com**
 
@@ -24,4 +24,3 @@ Soy **Aarón Fernández** ✨ _cesar1091_ ✨ estudiante de ingeniería industri
 [![Instagram](https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=Instagram&logoColor=FFB6C1&labelColor=101010)](https://www.instagram.com/cesc_fern/?hl=es-la)</br>
 [![Facebook](https://img.shields.io/badge/Facebook-3B83BD?style=for-the-badge&logo=Facebook&logoColor=3B83BD&labelColor=101010)](https://www.facebook.com/cesaraaron.fernandeznino/)</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-51D1F6?style=for-the-badge&logo=LinkedIn&logoColor=51D1F6&labelColor=101010)](https://www.facebook.com/cesaraaron.fernandeznino/)</br>
-
